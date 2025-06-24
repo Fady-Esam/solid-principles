@@ -1,6 +1,6 @@
 # 🧱 SOLID Principles 
 
-This repository contains hands-on examples that demonstrate the **SOLID principles** of object-oriented design, implemented in C#. 
+A practical showcase of my understanding and applying of the **SOLID principles**, implemented in C# with clean, maintainable code examples.
 
 ## 📚 Learning & Applying the SOLID Principles
 
