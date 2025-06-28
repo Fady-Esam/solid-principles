@@ -1,6 +1,6 @@
 # 🧱 SOLID Principles 
 
-A practical showcase of my understanding and applying of the **SOLID principles**, implemented in C# with clean, maintainable code examples.
+A practical showcase of my understanding and applying of the **SOLID principles**, implemented in **C#** with clean, maintainable code examples.
 
 ## 📚 Learning & Applying the SOLID Principles
 
